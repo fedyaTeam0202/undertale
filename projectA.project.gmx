@@ -11,7 +11,7 @@
     <sound>sound\mus_amalgam</sound>
     <sound>sound\mus_ambientwater</sound>
     <sound>sound\mus_anothermedium</sound>
-    <sound>sound\mus_bad</sound>
+    
     <sound>sound\mus_badnote1</sound>
     <sound>sound\mus_badnote2</sound>
     <sound>sound\mus_badnote3</sound>
@@ -465,13 +465,8 @@
     <sprite>sprites\spr_5_mouth1</sprite>
     <sprite>sprites\spr_5_mouth2</sprite>
     <sprite>sprites\spr_5_mouth3</sprite>
-    <sprite>sprites\spr_5_sellface</sprite>
-    <sprite>sprites\spr_5_sellface_x</sprite>
-    <sprite>sprites\spr_5_sweat</sprite>
-    <sprite>sprites\spr_5_tembody</sprite>
-    <sprite>sprites\spr_5_tembox</sprite>
-    <sprite>sprites\spr_5_tembrows</sprite>
-    <sprite>sprites\spr_5_temexampl</sprite>
+    
+    
     <sprite>sprites\spr_60_680</sprite>
     <sprite>sprites\spr_6bandage_big</sprite>
     <sprite>sprites\spr_6book</sprite>
@@ -1333,7 +1328,7 @@
     <sprite>sprites\spr_f_maincharar</sprite>
     <sprite>sprites\spr_f_maincharau</sprite>
     <sprite>sprites\spr_gameoverbg</sprite>
-    <sprite>sprites\spr_gameshowlogo</sprite>
+    
     <sprite>sprites\spr_garbagebg</sprite>
     <sprite>sprites\spr_garden_overlayshadow</sprite>
     <sprite>sprites\spr_gasterblaster</sprite>
@@ -1775,29 +1770,8 @@
     <sprite>sprites\spr_mkid_battle</sprite>
     <sprite>sprites\spr_mkid_battle_etc</sprite>
     <sprite>sprites\spr_mkid_battle_shock</sprite>
-    <sprite>sprites\spr_mkid_d</sprite>
-    <sprite>sprites\spr_mkid_dfall</sprite>
-    <sprite>sprites\spr_mkid_dt</sprite>
-    <sprite>sprites\spr_mkid_d_dark</sprite>
-    <sprite>sprites\spr_mkid_d_shadow</sprite>
-    <sprite>sprites\spr_mkid_goner_d</sprite>
-    <sprite>sprites\spr_mkid_goner_lt</sprite>
-    <sprite>sprites\spr_mkid_goner_rt</sprite>
-    <sprite>sprites\spr_mkid_goner_u</sprite>
-    <sprite>sprites\spr_mkid_l</sprite>
-    <sprite>sprites\spr_mkid_lfall</sprite>
-    <sprite>sprites\spr_mkid_lt</sprite>
-    <sprite>sprites\spr_mkid_l_shadow</sprite>
-    <sprite>sprites\spr_mkid_prostrate</sprite>
-    <sprite>sprites\spr_mkid_r</sprite>
-    <sprite>sprites\spr_mkid_rfall</sprite>
-    <sprite>sprites\spr_mkid_rt</sprite>
-    <sprite>sprites\spr_mkid_rtfall</sprite>
-    <sprite>sprites\spr_mkid_r_shadow</sprite>
-    <sprite>sprites\spr_mkid_trip_l</sprite>
-    <sprite>sprites\spr_mkid_trip_l_small</sprite>
-    <sprite>sprites\spr_mkid_trip_r</sprite>
-    <sprite>sprites\spr_mkid_u</sprite>
+    <
+    
     <sprite>sprites\spr_mkid_ufall</sprite>
     <sprite>sprites\spr_mkid_ut</sprite>
     <sprite>sprites\spr_mkid_u_shadow</sprite>
@@ -1824,9 +1798,7 @@
     <sprite>sprites\spr_monstertest2</sprite>
     <sprite>sprites\spr_monster_pl</sprite>
     <sprite>sprites\spr_moonmeteor</sprite>
-    <sprite>sprites\spr_mousehole</sprite>
-    <sprite>sprites\spr_mouthball</sprite>
-    <sprite>sprites\spr_mouthball_mask</sprite>
+    <sprite>sprites\spr_mousehole</sprite><sprite>sprites\spr_mouthball_mask</sprite>
     <sprite>sprites\spr_mouthbeam</sprite>
     <sprite>sprites\spr_mouthflash</sprite>
     <sprite>sprites\spr_movedoge</sprite>
@@ -1841,8 +1813,7 @@
     <sprite>sprites\spr_mttfountain_puddle</sprite>
     <sprite>sprites\spr_mttfountain_water</sprite>
     <sprite>sprites\spr_muffethurt</sprite>
-    <sprite>sprites\spr_muffet_buysell</sprite>
-    <sprite>sprites\spr_muffet_overworld</sprite>
+    <
     <sprite>sprites\spr_musblc</sprite>
     <sprite>sprites\spr_musbul_1</sprite>
     <sprite>sprites\spr_musbul_2</sprite>
@@ -2150,15 +2121,13 @@
     <sprite>sprites\spr_sans_dangerous</sprite>
     <sprite>sprites\spr_sans_dt</sprite>
     <sprite>sprites\spr_sans_d_dark</sprite>
-    <sprite>sprites\spr_sans_icecream_1</sprite>
-    <sprite>sprites\spr_sans_icecream_2</sprite>
+        <sprite>sprites\spr_sans_icecream_2</sprite>
     <sprite>sprites\spr_sans_icecream_3</sprite>
     <sprite>sprites\spr_sans_icecream_4</sprite>
     <sprite>sprites\spr_sans_icecream_5</sprite>
     <sprite>sprites\spr_sans_l</sprite>
     <sprite>sprites\spr_sans_laugh</sprite>
-    <sprite>sprites\spr_sans_l_dark</sprite>
-    <sprite>sprites\spr_sans_r</sprite>
+    <
     <sprite>sprites\spr_sans_r_dark</sprite>
     <sprite>sprites\spr_sans_r_darkhand</sprite>
     <sprite>sprites\spr_sans_shrug1</sprite>
@@ -2584,8 +2553,7 @@
     <sprite>sprites\spr_toriel_r_placething</sprite>
     <sprite>sprites\spr_toriel_school</sprite>
     <sprite>sprites\spr_toriel_u</sprite>
-    <sprite>sprites\spr_toriel_ut</sprite>
-    <sprite>sprites\spr_toriel_wrap</sprite>
+    
     <sprite>sprites\spr_toriel_wrapshock</sprite>
     <sprite>sprites\spr_tornnote</sprite>
     <sprite>sprites\spr_tornote</sprite>
@@ -2735,19 +2703,7 @@
     <sprite>sprites\spr_undyne_jump1</sprite>
     <sprite>sprites\spr_undyne_kick</sprite>
     <sprite>sprites\spr_undyne_l</sprite>
-    <sprite>sprites\spr_undyne_leap</sprite>
-    <sprite>sprites\spr_undyne_lt</sprite>
-    <sprite>sprites\spr_undyne_pantstest</sprite>
-    <sprite>sprites\spr_undyne_piano</sprite>
-    <sprite>sprites\spr_undyne_polite</sprite>
-    <sprite>sprites\spr_undyne_r</sprite>
-    <sprite>sprites\spr_undyne_rt</sprite>
-    <sprite>sprites\spr_undyne_rt_burnt</sprite>
-    <sprite>sprites\spr_undyne_rt_tomato</sprite>
-    <sprite>sprites\spr_undyne_rush</sprite>
-    <sprite>sprites\spr_undyne_rushfade</sprite>
-    <sprite>sprites\spr_undyne_shad</sprite>
-    <sprite>sprites\spr_undyne_starkd</sprite>
+    <
     <sprite>sprites\spr_undyne_starkd_arm</sprite>
     <sprite>sprites\spr_undyne_starkd_nomask</sprite>
     <sprite>sprites\spr_undyne_starkd_nomask_2</sprite>
@@ -2789,15 +2745,7 @@
     <sprite>sprites\spr_vertplanegreen</sprite>
     <sprite>sprites\spr_vertplanemask</sprite>
     <sprite>sprites\spr_videogame</sprite>
-    <sprite>sprites\spr_videogame_bomb</sprite>
-    <sprite>sprites\spr_vinespillar</sprite>
-    <sprite>sprites\spr_vines_flowey</sprite>
-    <sprite>sprites\spr_vines_flowey_2</sprite>
-    <sprite>sprites\spr_vines_flowey_3</sprite>
-    <sprite>sprites\spr_vulkinbody</sprite>
-    <sprite>sprites\spr_vulkincloud</sprite>
-    <sprite>sprites\spr_vulkincloudbul</sprite>
-    <sprite>sprites\spr_vulkinface</sprite>
+ 
     <sprite>sprites\spr_vulkinface2</sprite>
     <sprite>sprites\spr_vulkinface3</sprite>
     <sprite>sprites\spr_vulkinface4</sprite>
@@ -2839,16 +2787,7 @@
     <sprite>sprites\spr_waterfall_midmid</sprite>
     <sprite>sprites\spr_waterfall_midright</sprite>
     <sprite>sprites\spr_waterfall_midtop</sprite>
-    <sprite>sprites\spr_waterfall_singletop</sprite>
-    <sprite>sprites\spr_waterfall_topleft</sprite>
-    <sprite>sprites\spr_waterfall_topright</sprite>
-    <sprite>sprites\spr_waterglass_battle</sprite>
-    <sprite>sprites\spr_waterice</sprite>
-    <sprite>sprites\spr_waterpillar</sprite>
-    <sprite>sprites\spr_waterpushrock</sprite>
-    <sprite>sprites\spr_waterripple</sprite>
-    <sprite>sprites\spr_webgunk_1</sprite>
-    <sprite>sprites\spr_webgunk_2</sprite>
+    <sprit
     <sprite>sprites\spr_webgunk_3</sprite>
     <sprite>sprites\spr_webpl</sprite>
     <sprite>sprites\spr_weirdlight</sprite>
@@ -2899,22 +2838,7 @@
     <sprite>sprites\spr_wormbul</sprite>
     <sprite>sprites\spr_woshbody</sprite>
     <sprite>sprites\spr_woshduck</sprite>
-    <sprite>sprites\spr_woshface</sprite>
-    <sprite>sprites\spr_woshface_bull</sprite>
-    <sprite>sprites\spr_woshhanger</sprite>
-    <sprite>sprites\spr_woshhead</sprite>
-    <sprite>sprites\spr_woshtail</sprite>
-    <sprite>sprites\spr_woshua</sprite>
-    <sprite>sprites\spr_woshuanpc</sprite>
-    <sprite>sprites\spr_woshwater</sprite>
-    <sprite>sprites\spr_xbullet</sprite>
-    <sprite>sprites\spr_xmastree</sprite>
-    <sprite>sprites\spr_xoxo</sprite>
-    <sprite>sprites\spr_yellowbullet_pl</sprite>
-    <sprite>sprites\spr_yellowheart_pl</sprite>
-    <sprite>sprites\spr_yellowjetpack</sprite>
-    <sprite>sprites\spr_yellowphone_jetpacktransform</sprite>
-    <sprite>sprites\spr_yellowphone_o</sprite>
+
     <sprite>sprites\spr_yellowtrigger_off_pl</sprite>
     <sprite>sprites\spr_yellowtrigger_pl</sprite>
     <sprite>sprites\spr_zzz</sprite>
@@ -2949,24 +2873,7 @@
     <background>background\bg_boxbed</background>
     <background>background\bg_brattybg</background>
     <background>background\bg_brownground</background>
-    <background>background\bg_bureau</background>
-    <background>background\bg_burgerpantsshop</background>
-    <background>background\bg_castle_realdoor</background>
-    <background>background\bg_conveyor_markers</background>
-    <background>background\bg_cookshowplaceholder</background>
-    <background>background\bg_coretiles_erase</background>
-    <background>background\bg_coretiles_wip</background>
-    <background>background\bg_core_distance</background>
-    <background>background\bg_core_distance_foreground</background>
-    <background>background\bg_cornerweb</background>
-    <background>background\bg_cornerweb_r</background>
-    <background>background\bg_cr1</background>
-    <background>background\bg_dogrope</background>
-    <background>background\bg_dogshirt</background>
-    <background>background\bg_elevarmL</background>
-    <background>background\bg_elevarmR</background>
-    <background>background\bg_elevbelow</background>
-    <background>background\bg_elevbottom</background>
+    <und>
     <background>background\bg_elevleg</background>
     <background>background\bg_elevtop</background>
     <background>background\bg_elevunit</background>
@@ -3008,26 +2915,7 @@
     <background>background\bg_kitchen_tint</background>
     <background>background\bg_labplaceholder</background>
     <background>background\bg_labplaceholder2</background>
-    <background>background\bg_labtiles</background>
-    <background>background\bg_labtv</background>
-    <background>background\bg_lastcity</background>
-    <background>background\bg_lastclouds</background>
-    <background>background\bg_lastruins_1</background>
-    <background>background\bg_lastruins_2</background>
-    <background>background\bg_lastruins_3</background>
-    <background>background\bg_lastruins_4</background>
-    <background>background\bg_lastruins_5</background>
-    <background>background\bg_lastruins_6</background>
-    <background>background\bg_lastruins_7</background>
-    <background>background\bg_lavatile</background>
-    <background>background\bg_lavatile4x4</background>
-    <background>background\bg_library</background>
-    <background>background\bg_librarybooks</background>
-    <background>background\bg_library_outside</background>
-    <background>background\bg_lightpart</background>
-    <background>background\bg_livingroom</background>
-    <background>background\bg_loneflowers</background>
-    <background>background\bg_longweb</background>
+    <b
     <background>background\bg_longweb_2</background>
     <background>background\bg_mebed</background>
     <background>background\bg_mettlamp</background>
@@ -3051,25 +2939,7 @@
     <background>background\bg_paphouse_a</background>
     <background>background\bg_paphouse_b</background>
     <background>background\bg_paphouse_c</background>
-    <background>background\bg_paproom</background>
-    <background>background\bg_parlor1</background>
-    <background>background\bg_parlorstairs</background>
-    <background>background\bg_pipezone_tiles</background>
-    <background>background\bg_powerbutto</background>
-    <background>background\bg_prebarrier_door</background>
-    <background>background\bg_rededge</background>
-    <background>background\bg_rededge_2</background>
-    <background>background\bg_rededge_2_flip</background>
-    <background>background\bg_rededge_3</background>
-    <background>background\bg_rededge_flip</background>
-    <background>background\bg_restaurant_corkboard</background>
-    <background>background\bg_restaurant_tv</background>
-    <background>background\bg_restaurant_vine</background>
-    <background>background\bg_restaurant_vine2</background>
-    <background>background\bg_ruinsbg</background>
-    <background>background\bg_ruinseasynam1</background>
-    <background>background\bg_ruinseasynam2</background>
-    <background>background\bg_ruinseasynam3</background>
+    <b
     <background>background\bg_ruinsentrance</background>
     <background>background\bg_ruinsfixedstairs</background>
     <background>background\bg_ruinsplaceholder</background>
@@ -3087,28 +2957,7 @@
     <background>background\bg_smallhouse_gr</background>
     <background>background\bg_smalltree_gr</background>
     <background>background\bg_smallweb</background>
-    <background>background\bg_snowdinhouse</background>
-    <background>background\bg_spiderroom</background>
-    <background>background\bg_tb</background>
-    <background>background\bg_temhole</background>
-    <background>background\bg_tempfiretile</background>
-    <background>background\bg_temshop</background>
-    <background>background\bg_temshopdoor</background>
-    <background>background\bg_temstatue</background>
-    <background>background\bg_torhallmirror</background>
-    <background>background\bg_torhallway</background>
-    <background>background\bg_torielroom</background>
-    <background>background\bg_truelab_tiles</background>
-    <background>background\bg_tundragate</background>
-    <background>background\bg_tundramap</background>
-    <background>background\bg_tundratiles</background>
-    <background>background\bg_undynecrag</background>
-    <background>background\bg_undynehouse</background>
-    <background>background\bg_undynehouse_real</background>
-    <background>background\bg_undynerug</background>
-    <background>background\bg_vendingmachine</background>
-    <background>background\bg_waterfalltex</background>
-    <background>background\bg_waterfall_castle</background>
+    <
     <background>background\bg_waterfall_left</background>
     <background>background\bg_waterfall_right</background>
     <background>background\bg_waterflower</background>
@@ -3140,32 +2989,7 @@
     <script>scripts\date_current_date.gml</script>
     <script>scripts\date_current_time_x.gml</script>
     <script>scripts\draw_custom_ext.gml</script>
-    <script>scripts\draw_me.gml</script>
-    <script>scripts\draw_self_border.gml</script>
-    <script>scripts\draw_self_border_e.gml</script>
-    <script>scripts\draw_self_border_ext.gml</script>
-    <script>scripts\draw_self_border_true.gml</script>
-    <script>scripts\draw_self_custom.gml</script>
-    <script>scripts\draw_self_custom_x.gml</script>
-    <script>scripts\keyboard_multicheck.gml</script>
-    <script>scripts\keyboard_multicheck_pressed.gml</script>
-    <script>scripts\murdererlv1.gml</script>
-    <script>scripts\murdererlv2.gml</script>
-    <script>scripts\random_ranger.gml</script>
-    <script>scripts\scr_afterimage.gml</script>
-    <script>scripts\scr_alface.gml</script>
-    <script>scripts\scr_armoreq.gml</script>
-    <script>scripts\scr_asgface.gml</script>
-    <script>scripts\scr_attack.gml</script>
-    <script>scripts\scr_attackcalc.gml</script>
-    <script>scripts\scr_battlegroup.gml</script>
-    <script>scripts\scr_begin.gml</script>
-    <script>scripts\scr_binfowrite.gml</script>
-    <script>scripts\scr_blcon.gml</script>
-    <script>scripts\scr_blconmatch.gml</script>
-    <script>scripts\scr_blcon_x.gml</script>
-    <script>scripts\scr_blueat.gml</script>
-    <script>scripts\SCR_BORDER.gml</script>
+    
     <script>scripts\scr_bordercross.gml</script>
     <script>scripts\SCR_BORDERSETUP.gml</script>
     <script>scripts\SCR_BORDER_X.gml</script>
@@ -3201,27 +3025,7 @@
     <script>scripts\scr_getmusindex.gml</script>
     <script>scripts\scr_getvapordata.gml</script>
     <script>scripts\scr_hplat.gml</script>
-    <script>scripts\scr_insideborder.gml</script>
-    <script>scripts\scr_interact.gml</script>
-    <script>scripts\scr_itemcheck.gml</script>
-    <script>scripts\scr_itemdesc.gml</script>
-    <script>scripts\scr_itemget.gml</script>
-    <script>scripts\scr_itemname.gml</script>
-    <script>scripts\scr_itemnameb.gml</script>
-    <script>scripts\scr_itemnamelist.gml</script>
-    <script>scripts\scr_itemnospace.gml</script>
-    <script>scripts\scr_itemremove.gml</script>
-    <script>scripts\scr_itemrewrite.gml</script>
-    <script>scripts\scr_itemroom.gml</script>
-    <script>scripts\scr_itemshift.gml</script>
-    <script>scripts\scr_itemuseb.gml</script>
-    <script>scripts\scr_itemvalue.gml</script>
-    <script>scripts\SCR_LASER.gml</script>
-    <script>scripts\scr_levelup.gml</script>
-    <script>scripts\scr_load.gml</script>
-    <script>scripts\scr_marker.gml</script>
-    <script>scripts\scr_mercystandard.gml</script>
-    <script>scripts\scr_monsterdefeat.gml</script>
+    <>
     <script>scripts\scr_monstersetup.gml</script>
     <script>scripts\scr_monstersum.gml</script>
     <script>scripts\scr_moveideal.gml</script>
@@ -3271,10 +3075,7 @@
     <script>scripts\scr_tempload.gml</script>
     <script>scripts\scr_tempsave.gml</script>
     <script>scripts\SCR_TEXT.gml</script>
-    <script>scripts\SCR_TEXTSETUP.gml</script>
-    <script>scripts\scr_textskip.gml</script>
-    <script>scripts\SCR_TEXTTYPE.gml</script>
-    <script>scripts\SCR_TEXTTYPE_f.gml</script>
+    <sc
     <script>scripts\SCR_THATCH.gml</script>
     <script>scripts\scr_torcall.gml</script>
     <script>scripts\scr_torface.gml</script>
@@ -3342,19 +3143,14 @@
     <object>objects\blt_icicle</object>
     <object>objects\blt_laser</object>
     <object>objects\blt_leapfrog</object>
-    <object>objects\blt_loopbulletgrow</object>
-    <object>objects\blt_minihelix</object>
+    
     <object>objects\blt_musbul1</object>
     <object>objects\blt_muscbul</object>
     <object>objects\blt_parent</object>
     <object>objects\blt_parent_noborder</object>
     <object>objects\blt_pblueattack</object>
     <object>objects\blt_pollendrop</object>
-    <object>objects\blt_potentiallyblue</object>
-    <object>objects\blt_roachbullet</object>
-    <object>objects\blt_roachdance</object>
-    <object>objects\blt_sadbullet</object>
-    <object>objects\blt_scootdog</object>
+    
     <object>objects\blt_shinebullet</object>
     <object>objects\blt_sizebone</object>
     <object>objects\blt_soapbul</object>
@@ -3406,18 +3202,7 @@
     <object>objects\obj_6shoe_part</object>
     <object>objects\obj_6soul_helpcutscene</object>
     <object>objects\obj_6soul_lastcutscene</object>
-    <object>objects\obj_8smallgen</object>
-    <object>objects\obj_aaron</object>
-    <object>objects\obj_aaronbody</object>
-    <object>objects\obj_aaronnpc</object>
-    <object>objects\obj_actiontable</object>
-    <object>objects\obj_adate</object>
-    <object>objects\obj_adate_body</object>
-    <object>objects\obj_adate_papyrus</object>
-    <object>objects\obj_adate_trashcan</object>
-    <object>objects\obj_adate_ubody</object>
-    <object>objects\obj_afinal_body</object>
-    <object>objects\obj_afterimage_asriel</object>
+    <
     <object>objects\obj_agentbody</object>
     <object>objects\obj_alabdoor_l</object>
     <object>objects\obj_allaroundgen</object>
@@ -3480,57 +3265,7 @@
     <object>objects\obj_astigmatism_body</object>
     <object>objects\obj_astigmatism_bullet</object>
     <object>objects\obj_autowater</object>
-    <object>objects\obj_backgrounder_castle</object>
-    <object>objects\obj_backgrounder_core</object>
-    <object>objects\obj_backgrounder_dock</object>
-    <object>objects\obj_backgrounder_lastruins</object>
-    <object>objects\obj_backgrounder_lava</object>
-    <object>objects\obj_backgrounder_parent</object>
-    <object>objects\obj_backgrounder_pillar</object>
-    <object>objects\obj_backgrounder_tundra</object>
-    <object>objects\obj_bara01</object>
-    <object>objects\obj_bara02</object>
-    <object>objects\obj_bara03</object>
-    <object>objects\obj_bara04</object>
-    <object>objects\obj_barabody</object>
-    <object>objects\obj_barriercut</object>
-    <object>objects\obj_barrierevent</object>
-    <object>objects\obj_basementmusic</object>
-    <object>objects\obj_basicmonster</object>
-    <object>objects\obj_battlebg</object>
-    <object>objects\obj_battleblcon</object>
-    <object>objects\obj_battlebomb</object>
-    <object>objects\obj_battlebomb_body</object>
-    <object>objects\obj_battlecontroller</object>
-    <object>objects\obj_battlefader</object>
-    <object>objects\obj_battler</object>
-    <object>objects\obj_battlerflowey</object>
-    <object>objects\obj_battlerquick</object>
-    <object>objects\obj_battlerstory</object>
-    <object>objects\obj_battlethingparent</object>
-    <object>objects\obj_beachdebris</object>
-    <object>objects\obj_bedlump</object>
-    <object>objects\obj_bed_dark</object>
-    <object>objects\obj_bed_key</object>
-    <object>objects\obj_bed_watcher</object>
-    <object>objects\obj_bellblossom</object>
-    <object>objects\obj_bgpipe</object>
-    <object>objects\obj_bg_glower</object>
-    <object>objects\obj_bigbob</object>
-    <object>objects\obj_bigcoredoor_anim</object>
-    <object>objects\obj_bigdog</object>
-    <object>objects\obj_bigglydeshot</object>
-    <object>objects\obj_bigpie</object>
-    <object>objects\obj_bigweb</object>
-    <object>objects\obj_birbnoise</object>
-    <object>objects\obj_blackborderer</object>
-    <object>objects\obj_blackboxpart</object>
-    <object>objects\obj_blackboxtest</object>
-    <object>objects\obj_blackbox_o</object>
-    <object>objects\obj_blackbox_o_shatter</object>
-    <object>objects\obj_blackbox_pl</object>
-    <object>objects\obj_blackbox_rewinder</object>
-    <object>objects\obj_blackbulletgen1</object>
+    <
     <object>objects\obj_black_ender</object>
     <object>objects\obj_blastbul</object>
     <object>objects\obj_blastorb</object>
@@ -3548,155 +3283,7 @@
     <object>objects\obj_blueattackgen</object>
     <object>objects\obj_bluelaser_b</object>
     <object>objects\obj_bluelaser_o</object>
-    <object>objects\obj_blueswitch_1</object>
-    <object>objects\obj_boardride_a</object>
-    <object>objects\obj_bobskids</object>
-    <object>objects\obj_bombbul</object>
-    <object>objects\obj_bombgen</object>
-    <object>objects\obj_bonebox</object>
-    <object>objects\obj_bonedrawer</object>
-    <object>objects\obj_bonedrawer_check</object>
-    <object>objects\obj_boneloop_v</object>
-    <object>objects\obj_boneplat</object>
-    <object>objects\obj_bonestab</object>
-    <object>objects\obj_bonewall</object>
-    <object>objects\obj_bonewall_normal</object>
-    <object>objects\obj_booktable</object>
-    <object>objects\obj_booth</object>
-    <object>objects\obj_borderparent</object>
-    <object>objects\obj_bottomglower</object>
-    <object>objects\obj_bottomtable</object>
-    <object>objects\obj_bouncedown</object>
-    <object>objects\obj_bounceleft</object>
-    <object>objects\obj_bouncelight</object>
-    <object>objects\obj_bouncer</object>
-    <object>objects\obj_bounceright</object>
-    <object>objects\obj_bouncersteam</object>
-    <object>objects\obj_bouncetilecontoller</object>
-    <object>objects\obj_bouncetileparent</object>
-    <object>objects\obj_bounceup</object>
-    <object>objects\obj_boxsiner</object>
-    <object>objects\obj_boysnightout</object>
-    <object>objects\obj_brightwaterfall</object>
-    <object>objects\obj_bringitinguys</object>
-    <object>objects\obj_brokenpiece</object>
-    <object>objects\obj_btparent</object>
-    <object>objects\obj_bulletblocker</object>
-    <object>objects\obj_bulletbomb</object>
-    <object>objects\obj_bulletgen1</object>
-    <object>objects\obj_bulletgenparent</object>
-    <object>objects\obj_bulletgenthatched</object>
-    <object>objects\obj_burgerpants_body</object>
-    <object>objects\obj_businessmanticore</object>
-    <object>objects\obj_butterfly2gen</object>
-    <object>objects\obj_butterflybullet</object>
-    <object>objects\obj_butterflybullet_2</object>
-    <object>objects\obj_butterflybullet_gen</object>
-    <object>objects\obj_butterflybullet_gen_2</object>
-    <object>objects\obj_butterflyhead</object>
-    <object>objects\obj_cactus</object>
-    <object>objects\obj_candydish1</object>
-    <object>objects\obj_candydish2</object>
-    <object>objects\obj_carbed</object>
-    <object>objects\obj_carrotshot</object>
-    <object>objects\obj_carrotstargen</object>
-    <object>objects\obj_carrybird</object>
-    <object>objects\obj_castle_part1music</object>
-    <object>objects\obj_castle_part2music</object>
-    <object>objects\obj_castroll</object>
-    <object>objects\obj_centeract_parent</object>
-    <object>objects\obj_cfire</object>
-    <object>objects\obj_cfiregen</object>
-    <object>objects\obj_chairiel</object>
-    <object>objects\obj_chaosbomb</object>
-    <object>objects\obj_cheesetable1</object>
-    <object>objects\obj_chefhat</object>
-    <object>objects\obj_cherrygen</object>
-    <object>objects\obj_cherrypetal</object>
-    <object>objects\obj_chewtoy</object>
-    <object>objects\obj_chilldrake</object>
-    <object>objects\obj_chilldrakenpc</object>
-    <object>objects\obj_chimesparkle</object>
-    <object>objects\obj_chipdoor_l</object>
-    <object>objects\obj_chipdoor_r</object>
-    <object>objects\obj_chipdoor_trigger</object>
-    <object>objects\obj_choicer</object>
-    <object>objects\obj_clamgirl</object>
-    <object>objects\obj_clamguy</object>
-    <object>objects\obj_clawbullet_failure</object>
-    <object>objects\obj_clawbullet_gravityfailure</object>
-    <object>objects\obj_clawfailuregen</object>
-    <object>objects\obj_coffin</object>
-    <object>objects\obj_cogsmall</object>
-    <object>objects\obj_colorlever</object>
-    <object>objects\obj_confetti</object>
-    <object>objects\obj_controlspear</object>
-    <object>objects\obj_controltest</object>
-    <object>objects\obj_convenientlamp</object>
-    <object>objects\obj_conveyord</object>
-    <object>objects\obj_conveyorl</object>
-    <object>objects\obj_conveyorpuzzle1</object>
-    <object>objects\obj_conveyorr</object>
-    <object>objects\obj_conveyorsnapper</object>
-    <object>objects\obj_conveyoru</object>
-    <object>objects\obj_conveyor_parent</object>
-    <object>objects\obj_cookhud</object>
-    <object>objects\obj_cookshowevent</object>
-    <object>objects\obj_coreambiencemusic</object>
-    <object>objects\obj_coredoor_anim</object>
-    <object>objects\obj_coremusic</object>
-    <object>objects\obj_coreobj_parent</object>
-    <object>objects\obj_coresign</object>
-    <object>objects\obj_core_bridgeleg</object>
-    <object>objects\obj_core_enemyevent</object>
-    <object>objects\obj_core_enemyevent2</object>
-    <object>objects\obj_core_glowbg</object>
-    <object>objects\obj_core_glowtotem</object>
-    <object>objects\obj_core_glowwall</object>
-    <object>objects\obj_core_laserswitch</object>
-    <object>objects\obj_core_lightline_l</object>
-    <object>objects\obj_core_lightline_m</object>
-    <object>objects\obj_core_lightline_r</object>
-    <object>objects\obj_core_lightstrip</object>
-    <object>objects\obj_core_lightstrip_m</object>
-    <object>objects\obj_cosmeticblcon</object>
-    <object>objects\obj_cosmeticecho</object>
-    <object>objects\obj_cosmetichole</object>
-    <object>objects\obj_cosmeticpillar_a</object>
-    <object>objects\obj_cosmeticpillar_b</object>
-    <object>objects\obj_cosmetic_glowstar</object>
-    <object>objects\obj_countermiddle</object>
-    <object>objects\obj_counterscroller</object>
-    <object>objects\obj_coverup</object>
-    <object>objects\obj_creditboss</object>
-    <object>objects\obj_creditbullet</object>
-    <object>objects\obj_creditsheart</object>
-    <object>objects\obj_creditsloader</object>
-    <object>objects\obj_creditsword</object>
-    <object>objects\obj_credits_short</object>
-    <object>objects\obj_creeptree1</object>
-    <object>objects\obj_creeptree_sansmaker</object>
-    <object>objects\obj_creeptree_stickbreak</object>
-    <object>objects\obj_crimegraph</object>
-    <object>objects\obj_croissant</object>
-    <object>objects\obj_crossword</object>
-    <object>objects\obj_crosszap</object>
-    <object>objects\obj_crygen1</object>
-    <object>objects\obj_crygen2</object>
-    <object>objects\obj_crygen3</object>
-    <object>objects\obj_ct_fallobj</object>
-    <object>objects\obj_cutetable</object>
-    <object>objects\obj_cutsceneheart</object>
-    <object>objects\obj_damndummy</object>
-    <object>objects\obj_dancemett</object>
-    <object>objects\obj_darkfridge</object>
-    <object>objects\obj_darkman_actor</object>
-    <object>objects\obj_darknesslantern</object>
-    <object>objects\obj_darknesspuzzle</object>
-    <object>objects\obj_darkness_undyne</object>
-    <object>objects\obj_darkplant</object>
-    <object>objects\obj_darkroom_event</object>
-    <object>objects\obj_darksans1</object>
+    
     <object>objects\obj_darksanstrigger</object>
     <object>objects\obj_darksausagenpc</object>
     <object>objects\obj_darksink</object>
@@ -3744,72 +3331,7 @@
     <object>objects\obj_dogtreat</object>
     <object>objects\obj_donutbullet</object>
     <object>objects\obj_doodleball</object>
-    <object>objects\obj_doodlebug</object>
-    <object>objects\obj_doodlebug_body</object>
-    <object>objects\obj_doodlebullet</object>
-    <object>objects\obj_doomtimer</object>
-    <object>objects\obj_doorA</object>
-    <object>objects\obj_doorAmusicfade</object>
-    <object>objects\obj_doorB</object>
-    <object>objects\obj_doorBmusicfade</object>
-    <object>objects\obj_doorC</object>
-    <object>objects\obj_doorCmusicfade</object>
-    <object>objects\obj_doorD</object>
-    <object>objects\obj_doorDmusicfade</object>
-    <object>objects\obj_doorparent</object>
-    <object>objects\obj_doorXmusicfade</object>
-    <object>objects\obj_door_ruins13</object>
-    <object>objects\obj_door_s_musfade</object>
-    <object>objects\obj_door_t</object>
-    <object>objects\obj_door_u</object>
-    <object>objects\obj_door_v</object>
-    <object>objects\obj_door_w</object>
-    <object>objects\obj_doublesans</object>
-    <object>objects\obj_downstairs</object>
-    <object>objects\obj_drakebody</object>
-    <object>objects\obj_drakehead</object>
-    <object>objects\obj_dtrapfire</object>
-    <object>objects\obj_dummy1</object>
-    <object>objects\obj_dummymonster</object>
-    <object>objects\obj_dummytrigger</object>
-    <object>objects\obj_dustcloud</object>
-    <object>objects\obj_earlystorybattle</object>
-    <object>objects\obj_ebottfadein</object>
-    <object>objects\obj_echoflower</object>
-    <object>objects\obj_eggbullet_pl</object>
-    <object>objects\obj_eggcarton_pl</object>
-    <object>objects\obj_egggraph</object>
-    <object>objects\obj_elevatordoor</object>
-    <object>objects\obj_elevatorgem</object>
-    <object>objects\obj_elevatorpanel</object>
-    <object>objects\obj_elev_floorsign</object>
-    <object>objects\obj_emptyborder_s</object>
-    <object>objects\obj_encountererparent</object>
-    <object>objects\obj_encounterer_glyde</object>
-    <object>objects\obj_encounterer_jerry</object>
-    <object>objects\obj_encounterer_ruins3</object>
-    <object>objects\obj_encounterer_ruins4</object>
-    <object>objects\obj_encounterer_ruins5</object>
-    <object>objects\obj_encounterer_ruins6</object>
-    <object>objects\obj_encounterer_tundra1</object>
-    <object>objects\obj_encounterer_water1</object>
-    <object>objects\obj_encounterer_water2</object>
-    <object>objects\obj_encountertrigger1</object>
-    <object>objects\obj_encounter_ruins1</object>
-    <object>objects\obj_encounter_ruins2</object>
-    <object>objects\obj_encount_core1</object>
-    <object>objects\obj_encount_fire1</object>
-    <object>objects\obj_encoutnerer_gyftrot</object>
-    <object>objects\obj_endbeachanim</object>
-    <object>objects\obj_endcaranim</object>
-    <object>objects\obj_endcastlemusic</object>
-    <object>objects\obj_endflowey</object>
-    <object>objects\obj_endflowey_regret</object>
-    <object>objects\obj_endmettevent</object>
-    <object>objects\obj_endmyroom</object>
-    <object>objects\obj_endogeny</object>
-    <object>objects\obj_endogeny_body</object>
-    <object>objects\obj_endschoolanim</object>
+    <
     <object>objects\obj_essaystuff</object>
     <object>objects\obj_exhaustbullet</object>
     <object>objects\obj_exitmarker3</object>
@@ -3838,21 +3360,7 @@
     <object>objects\obj_fakedarksans</object>
     <object>objects\obj_fakedoor</object>
     <object>objects\obj_fakefalls</object>
-    <object>objects\obj_fakefalls_bg</object>
-    <object>objects\obj_fakefroggit</object>
-    <object>objects\obj_fakeheart</object>
-    <object>objects\obj_fakepellet</object>
-    <object>objects\obj_fakesanstrigger</object>
-    <object>objects\obj_fakewater</object>
-    <object>objects\obj_fakewaterl</object>
-    <object>objects\obj_fakewaterm</object>
-    <object>objects\obj_fakewateropenl</object>
-    <object>objects\obj_fakewateropenm</object>
-    <object>objects\obj_fakewateropenr</object>
-    <object>objects\obj_fakewaterr</object>
-    <object>objects\obj_fakewatershadowl</object>
-    <object>objects\obj_fakewatershadowm</object>
-    <object>objects\obj_fakewatershadowr</object>
+    <
     <object>objects\obj_fallofflimb</object>
     <object>objects\obj_falltransition</object>
     <object>objects\obj_fearundynenpc1</object>
@@ -3862,34 +3370,7 @@
     <object>objects\obj_fileerased_part</object>
     <object>objects\obj_finalbarrier</object>
     <object>objects\obj_finaldoor</object>
-    <object>objects\obj_finalelevatorpanel</object>
-    <object>objects\obj_finalfroggit</object>
-    <object>objects\obj_finalfroggit_body</object>
-    <object>objects\obj_finalknight</object>
-    <object>objects\obj_finalknight_body</object>
-    <object>objects\obj_FinalWriter</object>
-    <object>objects\obj_firestormgen</object>
-    <object>objects\obj_fisttargettest</object>
-    <object>objects\obj_flamedrawer</object>
-    <object>objects\obj_flasher</object>
-    <object>objects\obj_fleshface</object>
-    <object>objects\obj_floface</object>
-    <object>objects\obj_floorswitch1</object>
-    <object>objects\obj_floweyarm</object>
-    <object>objects\obj_floweybattle1</object>
-    <object>objects\obj_floweybattler2</object>
-    <object>objects\obj_floweybodyparent</object>
-    <object>objects\obj_floweybullet_parent</object>
-    <object>objects\obj_floweydmgwriter</object>
-    <object>objects\obj_floweydraw</object>
-    <object>objects\obj_floweyfacer</object>
-    <object>objects\obj_floweyfly</object>
-    <object>objects\obj_floweyfly_burst</object>
-    <object>objects\obj_floweygonk</object>
-    <object>objects\obj_floweynuke</object>
-    <object>objects\obj_floweynukesplosion</object>
-    <object>objects\obj_floweypipetest</object>
-    <object>objects\obj_floweypipetest_2</object>
+    <object>
     <object>objects\obj_floweypipetest_3</object>
     <object>objects\obj_floweyslice</object>
     <object>objects\obj_floweytalker1</object>
@@ -3931,15 +3412,7 @@
     <object>objects\obj_friendlypellet</object>
     <object>objects\obj_friendparent</object>
     <object>objects\obj_friendprotector</object>
-    <object>objects\obj_friendscene</object>
-    <object>objects\obj_friendscene_gigavine</object>
-    <object>objects\obj_frogbullet_ex</object>
-    <object>objects\obj_frogbullet_ex_old</object>
-    <object>objects\obj_frogbullet_gen</object>
-    <object>objects\obj_froggit</object>
-    <object>objects\obj_froghead</object>
-    <object>objects\obj_froglegs</object>
-    <object>objects\obj_frypan_impact</object>
+    <obj
     <object>objects\obj_frypan_star</object>
     <object>objects\obj_fx_bgen</object>
     <object>objects\obj_fx_waver</object>
@@ -3950,16 +3423,7 @@
     <object>objects\obj_f_shotflame</object>
     <object>objects\obj_gameintro_fake</object>
     <object>objects\obj_gamemenu_fake</object>
-    <object>objects\obj_gameover</object>
-    <object>objects\obj_gameoverbg</object>
-    <object>objects\obj_gameover_test_pl</object>
-    <object>objects\obj_gameshake</object>
-    <object>objects\obj_garbagebg</object>
-    <object>objects\obj_garbagecooler</object>
-    <object>objects\obj_garbagefridge</object>
-    <object>objects\obj_garbagepile</object>
-    <object>objects\obj_garden_overlayshadow</object>
-    <object>objects\obj_gasterblaster</object>
+    \ct>
     <object>objects\obj_gasterbl_gen</object>
     <object>objects\obj_gaster_follower_a</object>
     <object>objects\obj_gaster_follower_b</object>
@@ -3982,13 +3446,7 @@
     <object>objects\obj_glowstone</object>
     <object>objects\obj_glydeb</object>
     <object>objects\obj_glydeshot</object>
-    <object>objects\obj_glyde_body</object>
-    <object>objects\obj_golddisplay</object>
-    <object>objects\obj_golfedge</object>
-    <object>objects\obj_golfhole</object>
-    <object>objects\obj_goofyrock</object>
-    <object>objects\obj_graphparent</object>
-    <object>objects\obj_grasssounder</object>
+    <object>ob
     <object>objects\obj_greatdog</object>
     <object>objects\obj_greatdogbody</object>
     <object>objects\obj_greenarmor</object>
@@ -5325,29 +4783,16 @@
     <room>rooms\room_water_piano</room>
     <room>rooms\room_water_prebird</room>
     <room>rooms\room_water_preundyne</room>
-    <room>rooms\room_water_prewaterfall</room>
-    <room>rooms\room_water_redacted</room>
-    <room>rooms\room_water_savepoint1</room>
-    <room>rooms\room_water_shoe</room>
-    <room>rooms\room_water_shop</room>
-    <room>rooms\room_water_statue</room>
-    <room>rooms\room_water_temvillage</room>
-    <room>rooms\room_water_trashsavepoint</room>
-    <room>rooms\room_water_trashzone1</room>
+    <room>om>
     <room>rooms\room_water_trashzone2</room>
     <room>rooms\room_water_undynebridge</room>
     <room>rooms\room_water_undynebridgeend</room>
     <room>rooms\room_water_undynefinal</room>
     <room>rooms\room_water_undynefinal2</room>
     <room>rooms\room_water_undynefinal3</room>
-    <room>rooms\room_water_undynehouse</room>
-    <room>rooms\room_water_undyneyard</room>
-    <room>rooms\room_water_waterfall</room>
-    <room>rooms\room_water_waterfall2</room>
-    <room>rooms\room_water_waterfall3</room>
+    <r
     <room>rooms\room_water_waterfall4</room>
-    <room>rooms\TESTROOM</room>
-  </rooms>
+    <
   <help>
     <rtf>help.rtf</rtf>
   </help>
